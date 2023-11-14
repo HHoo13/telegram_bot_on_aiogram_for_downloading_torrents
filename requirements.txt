@@ -1,0 +1,6 @@
+aiogram==2.25.1
+psycopg==3.1.12
+pybittorrent==0.5.6
+
+
+

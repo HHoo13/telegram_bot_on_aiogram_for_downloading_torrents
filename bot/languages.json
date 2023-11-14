@@ -1,0 +1,28 @@
+{
+    "ru": {
+        "flag": "🇷🇺",
+        "download": "Торрент получен",
+        "error_magnet": "Не правильный торрент магнит",
+        "settings": "🌏",
+        "hello": "Я бот для скачивания торрент файлов.\nДля того чтобы скачать торрент отправьте мне торрент магнит\n(файл с расширением \".torrent\")",
+        "downloading": "Ваш файл скачивается, время ожидания зависит от веса файла.",
+        "downloaded": "Торрент скачан, нажмите кнопку чтобы получить архив",
+        "send": "Получить файл",
+        "sending": "Отправляем вам архив.",
+        "choose": "Выберите язык",
+        "done": "Сделано"
+    },
+    "en": {
+        "flag": "🇺🇸",
+        "download": "Got torrent",
+        "error_magnet": "Looks like it's not a torrent magnet",
+        "settings": "🌏",
+        "hello": "I can download torrent files.\nIf u want download torrent send me torrent magnet \n(its the file witch ends with \".torrent\")",
+        "downloading": "I'm downloading your file, It takes some time according to file weight.",
+        "downloaded": "Torrent is downloaded, tap the button to get file",
+        "send": "Get file",
+        "sending": "Sending an archive.",
+        "choose": "Choose language",
+        "done": "Done"
+    }
+}
